@@ -5,3 +5,4 @@ C:\Users\hp\source\repos\Wipro\Day2\demoapp\demoapp\bin\Debug\demoapp.exe
 C:\Users\hp\source\repos\Wipro\Day2\demoapp\demoapp\bin\Debug\demoapp.pdb
 C:\Users\hp\source\repos\Wipro\Day2\demoapp\demoapp\obj\Debug\demoapp.exe
 C:\Users\hp\source\repos\Wipro\Day2\demoapp\demoapp\obj\Debug\demoapp.pdb
+C:\Users\hp\source\repos\Wipro\Day2\demoapp\demoapp\obj\Debug\demoapp.exe.config

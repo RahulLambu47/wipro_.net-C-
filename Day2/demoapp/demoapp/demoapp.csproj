@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>demoapp.boxing</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,7 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array.cs" />
+    <Compile Include="arrstr.cs" />
+    <Compile Include="boxemploy.cs" />
+    <Compile Include="boxing.cs" />
     <Compile Include="Case.cs" />
+    <Compile Include="circle.cs" />
+    <Compile Include="Employ.cs" />
+    <Compile Include="ifelse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

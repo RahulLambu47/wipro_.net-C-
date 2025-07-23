@@ -3,8 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|demoapp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\boxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\boxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\boxemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\boxemploy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\arrstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\arrstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +52,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "boxing.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\boxing.cs",
+              "RelativeDocumentMoniker": "demoapp\\boxing.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\boxing.cs*",
+              "RelativeToolTip": "demoapp\\boxing.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:12:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Employ.cs",
+              "RelativeDocumentMoniker": "demoapp\\Employ.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Employ.cs",
+              "RelativeToolTip": "demoapp\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:09:00.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "boxemploy.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\boxemploy.cs",
+              "RelativeDocumentMoniker": "demoapp\\boxemploy.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\boxemploy.cs",
+              "RelativeToolTip": "demoapp\\boxemploy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:07:28.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "array.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\array.cs",
+              "RelativeDocumentMoniker": "demoapp\\array.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\array.cs",
+              "RelativeToolTip": "demoapp\\array.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:03:23.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "arrstr.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\arrstr.cs",
+              "RelativeDocumentMoniker": "demoapp\\arrstr.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\arrstr.cs",
+              "RelativeToolTip": "demoapp\\arrstr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:45:02.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ifelse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\ifelse.cs",
+              "RelativeDocumentMoniker": "demoapp\\ifelse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\ifelse.cs",
+              "RelativeToolTip": "demoapp\\ifelse.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:31:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "circle.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\circle.cs",
+              "RelativeDocumentMoniker": "demoapp\\circle.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\circle.cs",
+              "RelativeToolTip": "demoapp\\circle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:26:33.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "demoapp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\demoapp.csproj",
+              "RelativeDocumentMoniker": "demoapp\\demoapp.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\demoapp.csproj*",
+              "RelativeToolTip": "demoapp\\demoapp.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T12:25:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Case.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Case.cs",
+              "RelativeDocumentMoniker": "demoapp\\Case.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Case.cs",
+              "RelativeToolTip": "demoapp\\Case.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:33:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Program.cs",
               "RelativeDocumentMoniker": "demoapp\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Program.cs*",
-              "RelativeToolTip": "demoapp\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCsAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Program.cs",
+              "RelativeToolTip": "demoapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T11:24:34.547Z",
               "EditorCaption": ""
