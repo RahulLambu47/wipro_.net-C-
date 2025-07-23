@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\bin\Debug\bitwise.exe.config
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\bin\Debug\bitwise.exe
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\bin\Debug\bitwise.pdb
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\obj\Debug\bitwise.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\obj\Debug\bitwise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\obj\Debug\bitwise.exe
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\obj\Debug\bitwise.pdb
+C:\Users\hp\source\repos\Wipro\Day1\bitwise\bitwise\obj\Debug\bitwise.exe.config

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Const\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5296127F-4F5F-4216-9732-F9767DE50F86}|Const\\Const.csproj|c:\\users\\hp\\source\\repos\\wipro\\day1\\const\\const\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5296127F-4F5F-4216-9732-F9767DE50F86}|Const\\Const.csproj|solutionrelative:const\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Const\\Const\\Program.cs",
+              "RelativeDocumentMoniker": "Const\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Const\\Const\\Program.cs",
+              "RelativeToolTip": "Const\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:46:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

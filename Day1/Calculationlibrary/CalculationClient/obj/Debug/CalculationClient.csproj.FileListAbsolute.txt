@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\bin\Debug\CalculationClient.exe.config
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\bin\Debug\CalculationClient.exe
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\bin\Debug\CalculationClient.pdb
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\bin\Debug\Calculationlibrary.dll
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\bin\Debug\Calculationlibrary.pdb
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\obj\Debug\Calculat.2EA6E86F.Up2Date
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\obj\Debug\CalculationClient.exe
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\CalculationClient\obj\Debug\CalculationClient.pdb

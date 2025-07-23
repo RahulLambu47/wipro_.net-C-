@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\bin\Debug\Const.exe.config
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\bin\Debug\Const.exe
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\bin\Debug\Const.pdb
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\obj\Debug\Const.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\obj\Debug\Const.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\obj\Debug\Const.exe
+C:\Users\hp\source\repos\Wipro\Day1\Const\Const\obj\Debug\Const.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\bin\Debug\customemployee.exe.config
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\bin\Debug\customemployee.exe
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\bin\Debug\customemployee.pdb
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\obj\Debug\customemployee.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\obj\Debug\customemployee.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\obj\Debug\customemployee.exe
+C:\Users\hp\source\repos\Wipro\Day1\customemployee\customemployee\obj\Debug\customemployee.pdb

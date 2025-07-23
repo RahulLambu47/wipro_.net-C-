@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\bin\Debug\Calculationlibrary.dll
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\bin\Debug\Calculationlibrary.pdb
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.dll
+C:\Users\hp\source\repos\Wipro\Day1\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.pdb

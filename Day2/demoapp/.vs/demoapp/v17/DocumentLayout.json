@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|c:\\users\\hp\\source\\repos\\wipro\\day2\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A540005-4183-4FAB-BE2C-311921356929}|demoapp\\demoapp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Case.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Case.cs",
+              "RelativeDocumentMoniker": "demoapp\\Case.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Case.cs",
+              "RelativeToolTip": "demoapp\\Case.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:33:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Program.cs",
+              "RelativeDocumentMoniker": "demoapp\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day2\\demoapp\\demoapp\\Program.cs",
+              "RelativeToolTip": "demoapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:24:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

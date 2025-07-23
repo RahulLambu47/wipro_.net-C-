@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Calculationlibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD07AC1-322C-47E0-AD94-3C62C41E1A2B}|CalculationClient\\CalculationClient.csproj|c:\\users\\hp\\source\\repos\\wipro\\day1\\calculationlibrary\\calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD07AC1-322C-47E0-AD94-3C62C41E1A2B}|CalculationClient\\CalculationClient.csproj|solutionrelative:calculationclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B585366-1CC4-4EF2-AA53-BA99804536E0}|Calculationlibrary\\Calculationlibrary.csproj|c:\\users\\hp\\source\\repos\\wipro\\day1\\calculationlibrary\\calculationlibrary\\calculationlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B585366-1CC4-4EF2-AA53-BA99804536E0}|Calculationlibrary\\Calculationlibrary.csproj|solutionrelative:calculationlibrary\\calculationlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Calculationlibrary\\CalculationClient\\Program.cs",
+              "RelativeDocumentMoniker": "CalculationClient\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Calculationlibrary\\CalculationClient\\Program.cs*",
+              "RelativeToolTip": "CalculationClient\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:59:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculationlibrary.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Calculationlibrary\\Calculationlibrary\\Calculationlibrary.cs",
+              "RelativeDocumentMoniker": "Calculationlibrary\\Calculationlibrary.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day1\\Calculationlibrary\\Calculationlibrary\\Calculationlibrary.cs",
+              "RelativeToolTip": "Calculationlibrary\\Calculationlibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:50:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
