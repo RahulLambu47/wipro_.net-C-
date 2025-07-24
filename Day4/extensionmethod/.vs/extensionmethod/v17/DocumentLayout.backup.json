@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|extensionmethod||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|c:\\users\\hp\\source\\repos\\wipro\\day4\\extensionmethod\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|c:\\users\\hp\\source\\repos\\wipro\\day4\\extensionmethod\\extensionmethod\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|solutionrelative:extensionmethod\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|c:\\users\\hp\\source\\repos\\wipro\\day4\\extensionmethod\\extensionmethod\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|solutionrelative:extensionmethod\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD85C5-2C9B-4922-A9E1-D95D5D01986B}|extensionmethod\\extensionmethod.csproj|c:\\users\\hp\\source\\repos\\wipro\\day4\\extensionmethod\\extensionmethod\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\Program.cs",
+              "RelativeDocumentMoniker": "extensionmethod\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\Program.cs*",
+              "RelativeToolTip": "extensionmethod\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:58:09.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "extensionmethod",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\extensionmethod.csproj",
+              "RelativeDocumentMoniker": "extensionmethod\\extensionmethod.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\extensionmethod.csproj*",
+              "RelativeToolTip": "extensionmethod\\extensionmethod.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T03:55:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "extension.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\extension.cs",
+              "RelativeDocumentMoniker": "extensionmethod\\extension.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\extension.cs",
+              "RelativeToolTip": "extensionmethod\\extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:51:56.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\Calculation.cs",
+              "RelativeDocumentMoniker": "extensionmethod\\Calculation.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day4\\extensionmethod\\extensionmethod\\Calculation.cs",
+              "RelativeToolTip": "extensionmethod\\Calculation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:49:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

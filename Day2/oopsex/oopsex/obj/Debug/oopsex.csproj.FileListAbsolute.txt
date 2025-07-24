@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\obj\Debug\oopsex.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\obj\Debug\oopsex.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\bin\Debug\oopsex.exe.config
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\bin\Debug\oopsex.exe
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\bin\Debug\oopsex.pdb
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\obj\Debug\oopsex.exe
+C:\Users\hp\source\repos\Wipro\Day2\oopsex\oopsex\obj\Debug\oopsex.pdb

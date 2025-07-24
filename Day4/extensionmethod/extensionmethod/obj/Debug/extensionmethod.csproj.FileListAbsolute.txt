@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\obj\Debug\extensionmethod.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\obj\Debug\extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\bin\Debug\extensionmethod.exe.config
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\bin\Debug\extensionmethod.exe
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\bin\Debug\extensionmethod.pdb
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\obj\Debug\extensionmethod.exe
+C:\Users\hp\source\repos\Wipro\Day4\extensionmethod\extensionmethod\obj\Debug\extensionmethod.pdb

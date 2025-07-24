@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\bin\Debug\abstractex.exe.config
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\bin\Debug\abstractex.exe
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\bin\Debug\abstractex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.exe
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.pdb
