@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentProject.Main.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentProject.Main.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Main.exe.config
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Main.exe
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Main.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Bal.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Exceptions.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Models.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Dao.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Bal.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Exceptions.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Models.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\bin\Debug\AgentProject.Dao.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentPro.3D9222A5.Up2Date
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentProject.Main.exe
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentProject.Main.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Main\AgentProject.Main\obj\Debug\AgentProject.Main.exe.config

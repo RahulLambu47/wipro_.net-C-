@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\bin\Debug\AgentProject.Exceptions.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\bin\Debug\AgentProject.Exceptions.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\obj\Debug\AgentProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\obj\Debug\AgentProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\obj\Debug\AgentProject.Exceptions.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project\AgentProject.Exceptions\AgentProject.Exceptions\obj\Debug\AgentProject.Exceptions.pdb
