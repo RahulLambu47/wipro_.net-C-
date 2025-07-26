@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\bin\Debug\staticex.exe.config
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\bin\Debug\staticex.exe
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\bin\Debug\staticex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\obj\Debug\staticex.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\obj\Debug\staticex.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\obj\Debug\staticex.exe
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\obj\Debug\staticex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\staticex\staticex\obj\Debug\staticex.exe.config

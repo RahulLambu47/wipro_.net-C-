@@ -8,7 +8,7 @@ namespace abstractex
 {
     internal class Rahul : training
     {
-        public override void Email()
+        public static void Email()
         {
             Console.WriteLine("Hi My Email is rahul@gmail.com");
         }

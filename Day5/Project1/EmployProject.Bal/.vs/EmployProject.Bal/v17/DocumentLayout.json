@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro\\Day5\\Project1\\EmployProject.Bal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734FE2BF-786F-4343-B588-1D4CB7EB6416}|EmployProject.Bal\\EmployProject.Bal.csproj|c:\\users\\hp\\source\\repos\\wipro\\day5\\project1\\employproject.bal\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734FE2BF-786F-4343-B588-1D4CB7EB6416}|EmployProject.Bal\\EmployProject.Bal.csproj|solutionrelative:employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro\\Day5\\Project1\\EmployProject.Bal\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "EmployProject.Bal\\EmployBal.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro\\Day5\\Project1\\EmployProject.Bal\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "EmployProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:31:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

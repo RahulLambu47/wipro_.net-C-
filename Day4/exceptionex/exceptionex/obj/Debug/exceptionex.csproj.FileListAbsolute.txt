@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\bin\Debug\exceptionex.exe.config
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\bin\Debug\exceptionex.exe
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\bin\Debug\exceptionex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\obj\Debug\exceptionex.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\obj\Debug\exceptionex.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\obj\Debug\exceptionex.exe
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\obj\Debug\exceptionex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\exceptionex\exceptionex\obj\Debug\exceptionex.exe.config

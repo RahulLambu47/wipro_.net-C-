@@ -5,3 +5,4 @@ C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\bin\Debug\abstractex.e
 C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\bin\Debug\abstractex.pdb
 C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.exe
 C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.pdb
+C:\Users\hp\source\repos\Wipro\Day4\abstractex\abstractex\obj\Debug\abstractex.exe.config

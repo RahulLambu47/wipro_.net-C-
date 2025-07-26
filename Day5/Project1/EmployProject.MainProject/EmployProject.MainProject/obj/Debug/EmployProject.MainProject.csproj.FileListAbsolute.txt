@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.MainProject.exe.config
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.MainProject.exe
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.MainProject.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Bal.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Models.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Dao.dll
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Bal.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Models.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\bin\Debug\EmployProject.Dao.pdb
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\obj\Debug\EmployProject.MainProject.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\obj\Debug\EmployProject.MainProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\obj\Debug\EmployPr.94571778.Up2Date
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\obj\Debug\EmployProject.MainProject.exe
+C:\Users\hp\source\repos\Wipro\Day5\Project1\EmployProject.MainProject\EmployProject.MainProject\obj\Debug\EmployProject.MainProject.pdb
