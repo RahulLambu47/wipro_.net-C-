@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\obj\Debug\Employ.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\obj\Debug\Employ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\bin\Debug\Employ.exe.config
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\bin\Debug\Employ.exe
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\bin\Debug\Employ.pdb
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\obj\Debug\Employ.exe
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\obj\Debug\Employ.pdb
+C:\Users\hp\source\repos\Wipro\Day6\Employ\Employ\obj\Debug\Employ.exe.config
